@@ -1,0 +1,18 @@
+Description:
+	A purely decorative structure featuring a vertical beam of energy focued by three tall constriction field towers.
+	
+Part Count:
+	307
+
+Positioning:
+	Ground
+
+Terrain Assumptions:
+	Flat
+	
+Powerlines:
+	Full
+
+Helpful Information:
+	The base extends away from the base computer as placed.  The placement assumes a flat area, or at least the area
+	behind the base computer (as viewed when placed) should not be taller than the terrain where the computer is placed.
